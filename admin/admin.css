@@ -1,0 +1,21 @@
+BODY {
+	FONT-FAMILY: Verdana, Arial
+}
+A {
+	COLOR: black
+}
+.link {
+	CURSOR: pointer; TEXT-DECORATION: none
+}
+.ulink {
+	CURSOR: pointer; TEXT-DECORATION: underline
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TR.list_row_e {
+	BACKGROUND: #FFFFFF;
+}
+TR.list_row_e {
+	BACKGROUND: #E8FFE8;
+}

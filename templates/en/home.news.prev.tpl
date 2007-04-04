@@ -1,0 +1,1 @@
+<span class="ulink" onclick="location.href='index.php?c=%comp_id%&home&page=%page%';">Next &gt;</span>

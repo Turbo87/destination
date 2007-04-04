@@ -1,0 +1,1 @@
+<br><span class="ulink" onclick="location.href='index.php?c=%comp_id%&pilots&id=%copilot%';">%copilot%</span>

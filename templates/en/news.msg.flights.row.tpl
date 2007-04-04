@@ -1,0 +1,1 @@
+<span style="FONT-SIZE: 12px;">%ldate% - %pilots% - %plane% - %km% km - %points% points</span><br>
